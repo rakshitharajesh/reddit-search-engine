@@ -25,7 +25,7 @@ if search_btn and query:
                 for result in response.results:
                     st.subheader(result.title)
                     st.write(f"URL: {result.url}")
-                    st.write(f"Published Date: {result.publishedDate}")
+                    st.write(f"Published Date: {result.published_date}")
                     st.markdown("---")
             else:
                 st.warning("No results found.")
