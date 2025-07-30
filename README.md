@@ -6,8 +6,7 @@ Whether you're looking for niche discussions, opinions, or some weird thought th
 ### INSTALLATION:
 1. clone the repository
 ```
-git clone https://github.com/yourusername/reddit-search-streamlit.git
-cd reddit-search-streamlit
+https://github.com/rakshitharajesh/reddit-search-engine.git
 ```
 2. installl the dependencies
 ```
